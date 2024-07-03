@@ -52,32 +52,3 @@ I'm always exploring new tools and learning somthing new about tech area.🖥️
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://scontent.fntr3-1.fna.fbcdn.net/v/t39.30808-6/353047758_1411183009632194_4803944156285665020_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UFb29nUanMYAX8eU1Jc&_nc_ht=scontent.fntr3-1.fna&oh=00_AfBd-n2NBJvEXC0oynuI3qnwwBOXVCww-zXl98fVHk7Gfw&oe=65ECABD2" align="left" height="280" width="280" />  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EverViera12&hide_border=true&layout=compact" align="center" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
