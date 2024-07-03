@@ -18,35 +18,46 @@ I'm always exploring new tools and learning something new about the tech area. ð
 
 ## Languages and Tools  
 <div align="center">  
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  
 ### Frontend  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="25" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" /></a>  
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" /></a>  
+
+</div>
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
 
 ### Backend  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" /></a>  
 
-### Languages  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+</div>
 
-### Databases  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sqlite-original-wordmark.svg" alt="SQLite" height="25" /></a>  
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
+
+### Bases de Datos  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" /></a>  
+<a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/sqlite-original-wordmark.svg" alt="SQLite" /></a>  
+
+</div>
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
 
 ### DevOps  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/heroku-original-wordmark.svg" alt="Heroku" height="25" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" /></a>  
+<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/heroku-original-wordmark.svg" alt="Heroku" /></a>  
 
-</div>  
+</div>
+
+</div>
 
 <br/>  
