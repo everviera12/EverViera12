@@ -19,8 +19,8 @@ I'm always exploring new tools and learning something new about the tech area. ð
 ## Languages and Tools  
 <div align="center">  
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+
 ### Frontend  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" /></a>  
@@ -31,7 +31,7 @@ I'm always exploring new tools and learning something new about the tech area. ð
 
 </div>
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-top: 20px;">
 
 ### Backend  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" /></a>  
@@ -41,7 +41,7 @@ I'm always exploring new tools and learning something new about the tech area. ð
 
 </div>
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-top: 20px;">
 
 ### Bases de Datos  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" /></a>  
@@ -49,7 +49,7 @@ I'm always exploring new tools and learning something new about the tech area. ð
 
 </div>
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-top: 20px;">
 
 ### DevOps  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" /></a>  
