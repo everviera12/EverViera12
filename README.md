@@ -1,5 +1,5 @@
 ## *Hey 👋, I'm Victor*  
-<img src="[https://miwebsite.com/mi_foto.png](https://res.cloudinary.com/ddiortiix/image/upload/v1720028082/avatar_ever_zjzeat.jpg)" alt="Mi Foto" width="200" />
+<img src="https://res.cloudinary.com/ddiortiix/image/upload/v1720028082/avatar_ever_zjzeat.jpg" alt="Mi Foto" width="200" />
 
 ### Hit me up!  
 <a href="https://linkedin.com/in/victor-everardo-viera-hernández" target="_blank">
