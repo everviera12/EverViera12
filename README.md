@@ -1,11 +1,13 @@
 ## *Hey 👋, I'm Victor*  
+<a href="https://portfolio-everviera12s-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://res.cloudinary.com/ddiortiix/image/upload/v1720028082/avatar_ever_zjzeat.jpg" alt="Mi Foto" width="200" />
+</a>
 
 ### Hit me up!  
-<a href="https://linkedin.com/in/victor-everardo-viera-hernández" target="_blank">
+<a href="https://linkedin.com/in/victor-everardo-viera-hernández" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/ever_viera_" target="_blank">
+<a href="https://instagram.com/ever_viera_" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
 </a>  
 
